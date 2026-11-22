@@ -1,0 +1,7 @@
+id,agent,channel,score,grade,sentiment,resolved,issues
+1,Priya,chat,100,PASS,Positive,Yes,
+2,Rahul,call,9.4,FAIL,Negative,No,No proper greeting; No empathy shown; Lacked polite language; No proper closing; Issue not resolved; Customer left unhappy
+3,Anita,chat,100,PASS,Positive,Yes,
+4,Rahul,chat,0,FAIL,Negative,No,No empathy shown; Lacked polite language; No proper closing; Issue not resolved; Slow first response; INAPPROPRIATE LANGUAGE; Customer left unhappy
+5,Anita,call,98.8,PASS,Positive,Yes,
+6,Priya,call,46.2,FAIL,Negative,No,No proper closing; Issue not resolved; Slow first response; Customer left unhappy
